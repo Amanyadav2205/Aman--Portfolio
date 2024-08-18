@@ -1194,6 +1194,7 @@ footer {
   transform: translate(0, -20px);
   text-decoration: line-through var(--color-white);
 }
+
 footer {
   width: 100%;
   height: fit-content;
